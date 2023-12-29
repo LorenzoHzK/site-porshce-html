@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: #800000;
+    max-height: 130px;
+    word-spacing: 10px;
+}
+.body{
+    background-color:#333333;
+}
+.Logo{
+    width: 10%;
+    padding-left: 45%;
+}
+.letraslogo{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.letraslogo:hover{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
+.fotocapa{
+    width: 100%;
+}
+.titulomodelosdeporsche{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 5px;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tipodeporsche{
+    border-radius: 10px;
+    margin-left: 15%;
+}
+.news{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.E-performance{
+    margin-left: 300px;
+    border-radius: 20px;
+    width: 75%;
+}
+.E-performance:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+.Boost{
+    margin-left: 100px  ;
+    width: 52%;
+    border-radius: 15px;
+}
+.Boost:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+.newstexto{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 50%;
+}
+.newstexto2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20%;
+}
+.seteanos{
+    text-align: justify;
+    font-size: 19px;
+    word-spacing: 5px;
+}
+.imagemsete{
+    border-radius: 25px;
+    margin-left: 30px;
+}
+.aninhos{
+    width: 65%;
+    margin-left: 12%;
+    margin-top: 15px;
+}
+.tituloinformacoes{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    word-spacing: 5px;
+    margin-top: 15px;
+}
